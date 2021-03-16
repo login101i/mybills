@@ -1,4 +1,3 @@
-const { restart } = require('nodemon');
 const Transaction = require('../Model/TransactionModel');
 
 // @desc    Get all transactions
